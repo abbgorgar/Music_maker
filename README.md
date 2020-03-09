@@ -15,8 +15,11 @@ https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
 ## Part for musice
 
 ### I det här delen så genererar vi låten. 
-### * Man ska först och främs välja rätt mapp som man har instalerat innan.
-###
+* Man ska först och främs välja rätt mapp som man har instalerat innan.
+* Man Senare så kan man antigen tränna köra på en redan trännat model eller träna en egen.
+#### För att köra på en redan tränat model måste man följa länken, ladda ner filen och sen lägga den i _musgan_ mappen.
+https://docs.google.com/uc?export=download&id=19RYAbj_utCDMpU7PurkjsH4e_Vy8H-Uy
+
 
 ## Part for text
 
