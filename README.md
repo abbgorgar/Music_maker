@@ -13,10 +13,15 @@ https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
 ### Därefter så kommer det tre separata delar. De första två kan köras utan varandra, men för att använda den sista så behöver man ha kört de första två innan.
 
 ## Part for musice
-### I det här delen så genererar vi låten. 
-### Man ska först och främs 
 
+### I det här delen så genererar vi låten. 
+### * Man ska först och främs välja rätt mapp som man har instalerat innan.
+###
 
 ## Part for text
 
+
 ## Merge two .mp3 files together
+
+### Det man gör i det här delen är att man mergar ihop två sticken .mp3 filer. Det första av de är låten och den andra är lyrics.
+### Som sagt för att kunna göra det här steget så måste man ha gjort de första två innan.
