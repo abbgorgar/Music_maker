@@ -54,6 +54,11 @@ https://docs.google.com/uc?export=download&id=19RYAbj_utCDMpU7PurkjsH4e_Vy8H-Uy
 
 #### Jag skulle vilja göra så att låten och texten passade till varandra och kanske ändra röstet som läser texten till en bättre för att just nu låter det lik som en robot.
 
+### Om jag hade gjort om
+
+#### Jag skulle konsentrerat mig mer på musik delen eftersom där fanns det mycket mer möjligheter än jag användde. Man kunde ha använt mer instrumenter och olika variationer av dem. 
+#### Också jag tycker om man har allt det här som jag gjorde så blir det mycket enklare att försöka skapa riktigt musik som ska ha bra låt och text som är anpasad till den. 
+
 # Vad har jag lärt mig?
 
 #### Jag lärde mig nya modeller som GPT-2 och modeller som används i MuseGan. Jag har också lärt mig att omvandla olika fil typer till andra fil typer till exempel .mid till .mp3 eller .txt till .mp3.
