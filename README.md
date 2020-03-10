@@ -43,3 +43,18 @@ https://docs.google.com/uc?export=download&id=19RYAbj_utCDMpU7PurkjsH4e_Vy8H-Uy
 
 #### Det man gör i det här delen är att man mergar ihop två sticken .mp3 filer. Det första av de är låten och den andra är lyrics.
 #### Som sagt för att kunna göra det här steget så måste man ha gjort de första två innan.
+
+# Reflektion 
+
+## Det som var bra
+
+#### Själva projektet gick som jag hade plannerat. Det fanns jättebra och enkla källor för allt och genom att leta länge så fick jag ett bra resultat. Det gick också jättebra att ändra koden som jag fick från källorna till min egen eftersom det var många grejer som passade inte eller fanns inte.
+
+## Det som var mindre bra
+
+#### Jag skulle vilja göra så att låten och texten passade till varandra och kanske ändra röstet som läser texten till en bättre för att just nu låter det lik som en robot.
+
+# Vad har jag lärt mig?
+
+#### Jag lärde mig nya modeller som GPT-2 och modeller som används i MuseGan. Jag har också lärt mig att omvandla olika fil typer till andra fil typer till exempel .mid till .mp3 eller .txt till .mp3.
+#### Jag fick mer tid med Google Colab så nu känner jag mig säkrare där.
