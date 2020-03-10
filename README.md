@@ -1,5 +1,10 @@
 # AI Projekt
 
+#### I det här projektet så har jag gjort någonslags musik skapare AI. Det som den gör är att den kan skapa sina egna låter genom att tränna på andra och den kan också göra sina egna lyrics genom att träna på andra. Efteråt så skapar den två .mp3 filer en för låten och en för texten och på slutet ihopsätter båda .mp3 filerna och skapar en stor .mp3 fil med både låten och texten i den.
+
+#### Ideen för att skapa låten har jag fått från https://github.com/salu133445/musegan.
+#### Och ideen för texten .....
+
 #### Min google colab länk
 https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
 #### För att kunna använda colaben så måste man först koppiera det i sin egen gdrive. Också måste man ha _musgan_ mappen i sin gdrive
