@@ -6,8 +6,8 @@
 #### Och ideen för texten .....
 
 #### Min google colab länk
-https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
-#### För att kunna använda colaben så måste man först koppiera det i sin egen gdrive. Också måste man ha _musgan_ mappen i sin gdrive
+#### https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
+#### För att kunna använda colaben så måste man först koppiera det i sin egen gdrive. Också måste man ha __musgan__ mappen i sin gdrive
 
 ## Start
 
@@ -17,14 +17,16 @@ https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF
 
 #### Därefter så kommer det tre separata delar. De första två kan köras utan varandra, men för att använda den sista så behöver man ha kört de första två innan.
 
-## Part for musice
+## Part for music
 
 #### I det här delen så genererar vi låten. 
 * Man ska först och främs välja rätt mapp som man har instalerat innan.
-* Man Senare så kan man antigen tränna köra på en redan trännat model eller träna en egen.
+* Därefter så ska man ladda ner förberedningsmateriale för att kunna tränna på den.
+* Senare så kan man antigen köra på en redan trännat model eller tränna en egen.
 #### För att köra på en redan tränat model måste man följa länken, ladda ner filen och sen lägga den i _musgan_ mappen.
 https://docs.google.com/uc?export=download&id=19RYAbj_utCDMpU7PurkjsH4e_Vy8H-Uy
-
+* Efter att man är klar med tränningen så kan man generera musik. Det kan göras på olika sätt och olika slags musik kan vara skapat. För att välja så behöver man gå in i mappen __exp/default/results/inference/__ och där kan man välja genre.
+* Sist men inte mins skapar man .mp3 fil med själva låten. Man behöver göra det eftersom filerna skapas i .mid format.
 
 ## Part for text
 
