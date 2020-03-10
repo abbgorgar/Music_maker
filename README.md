@@ -26,10 +26,19 @@
 #### För att köra på en redan tränat model måste man följa länken, ladda ner filen och sen lägga den i _musgan_ mappen.
 https://docs.google.com/uc?export=download&id=19RYAbj_utCDMpU7PurkjsH4e_Vy8H-Uy
 * Efter att man är klar med tränningen så kan man generera musik. Det kan göras på olika sätt och olika slags musik kan vara skapat. För att välja så behöver man gå in i mappen __exp/default/results/inference/__ och där kan man välja genre.
-* Sist men inte mins skapar man .mp3 fil med själva låten. Man behöver göra det eftersom filerna skapas i .mid format.
+* Sist men inte minst skapar man .mp3 fil med själva låten. Man behöver göra det eftersom filerna skapas i .mid format.
 
 ## Part for text
 
+#### För att kunna jobba med det här delen behöver man ha installerat GPT-2 från början.
+* Först ska man markera rätt mapp där man jobbar.
+* Sen väljer vi våran .txt fil där vi har våran text som AI ska tränna på. Om text filen är mindre än 10MB kan man bara dra den in i colab annars så måste man ha det i sin gdrive.
+#### VIKTIGT! Text filen måste vara väl filtrerat dvs att man ska undvika meningar som återkommer många gånger och meningar som innehåller samma ord många gånger. Om man har flera låter så rekomenderar jag att della dem med en lång linje ---------- eller med uttryme men det fungerar bara om man har inte uttryme i själva låt texten.
+* Därefter börjar man tränna modellen på valda text filen.
+* Efteråt så kan man spara den tränning chekpointen i sin gdrive för att kunna använda den senare.
+* Man kan också ladda upp redan trännat modell från gdrive och kära på den.
+* Sen så blir det själva text genereringen och då när texten är skapat så får man en .txt fil där finns all text redan skriven.
+* Och avslutningsvis så skapar vi en .mp3 tal från den .txt filen så vi genererade i förre punkten.
 
 ## Merge two .mp3 files together
 
