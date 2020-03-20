@@ -7,7 +7,7 @@
 #### Ideen för att skapa låten har jag fått från https://github.com/salu133445/musegan.
 #### Och ideen för texten https://github.com/minimaxir/gpt-2-simple.
 
-#### Min google colab länk https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF.
+### Min google colab länk https://colab.research.google.com/drive/1V9NjDummtaMQdQzzso9c7Ia0vJAGVkUF.
 #### För att kunna använda colaben så måste man först koppiera det i sin egen gdrive. Också måste man ha __musgan__ mappen i sin gdrive
 
 ## Start
