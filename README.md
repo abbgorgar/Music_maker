@@ -2,6 +2,8 @@
 
 #### I det här projektet så har jag gjort någonslags musik skapare AI. Det som den gör är att den kan skapa sina egna låter genom att tränna på andra och den kan också göra sina egna lyrics genom att träna på andra. Efteråt så skapar den två .mp3 filer en för låten och en för texten och på slutet ihopsätter båda .mp3 filerna och skapar en stor .mp3 fil med både låten och texten i den.
 
+### Källor
+
 #### Ideen för att skapa låten har jag fått från https://github.com/salu133445/musegan.
 #### Och ideen för texten https://github.com/minimaxir/gpt-2-simple.
 
